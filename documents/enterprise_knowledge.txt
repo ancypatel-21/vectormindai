@@ -1,0 +1,1 @@
+VectorMindAI helps teams discover relevant knowledge across internal documents, tickets, and reports. It supports semantic search, summarization, and retrieval-based workflows for enterprise systems.

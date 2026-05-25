@@ -1,0 +1,1 @@
+Anomaly detection systems identify unusual behavior in operational logs, telemetry data, and workflow execution traces. These systems often use clustering, scoring, and alerting pipelines.
